@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="incrementalityType" value="SBT" />
+    <profile name="sbt 1" modules="tchoo4" />
+    <profile name="sbt 2" modules="Tchoo4">
+      <option name="deprecationWarnings" value="true" />
+    </profile>
+  </component>
+</project>
